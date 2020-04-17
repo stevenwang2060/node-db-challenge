@@ -40,11 +40,21 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+Relational Databases are tables of data grouped into rows and columns where a row indicates a single entry, and columns represent the different pieces of that entry.
+
+SQL (Structured Query Language) is the language utilized to communicate with and manipulate data in the tables of a Relational Database.
+
 - [ ] Why do tables need a `primary key`?
+
+Each database table needs a primary key because it ensures row-level accessibility. A primary key is a way to identify each entry in the database uniquely.
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Foreign Key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+An intermediary or bridge table
 
 ## Minimum Viable Product
 
